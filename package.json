@@ -6,6 +6,7 @@
   "author": "kobakazu0429 <kobakazu10@gmail.com>",
   "license": "MIT",
   "scripts": {
+    "start": "ts-node ./src/index.ts",
     "lint": "npm run lint:eslint && npm run lint:prettier",
     "lint:eslint": "eslint \"./{src,test}/**/*.{js,ts,tsx,svelte}\" --fix",
     "lint:prettier": "prettier \"./{src,test}/**/*.{js,ts,tsx,svelte}\" --write"
@@ -16,5 +17,8 @@
     "eslint": "^8.7.0",
     "ts-node": "^10.4.0",
     "typescript": "^4.5.5"
+  },
+  "dependencies": {
+    "axios": "^0.25.0"
   }
 }
