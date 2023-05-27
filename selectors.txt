@@ -1,0 +1,10 @@
+%\d{1}
+%q\d
+%s\d
+%select\{.+\}\d{1}
+%diff\{.+\}\d,\d
+%plural\{.+\}\d
+%sub\{.+\}\d
+%ordinal\d{1,2}
+%objcclass\d
+%objcinstance\d

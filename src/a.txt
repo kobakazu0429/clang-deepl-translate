@@ -1,0 +1,6 @@
+this builtin is only available on 32-bit targets
+this builtin is only available on 64-bit targets
+cannot add 'abi_tag' attribute in a redeclaration
+%select{return|parameter|variable|field|instance variable|synthesized instance variable}0 type %1 is an abstract class
+%1 is a %select{private|protected}0 member of %3
+%select{base class|inherited virtual base class}0 %1 has %select{private|protected}3 %select{default |copy |move |*ERROR* |*ERROR* |*ERROR*|}2constructor

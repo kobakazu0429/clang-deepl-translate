@@ -1,0 +1,1 @@
+candidate template ignored: deduced type %diff{$ of %select{|element of }4%ordinal0 parameter does not match adjusted type $ of %select{|element of }4argument|of %select{|element of }4%ordinal0 parameter does not match adjusted type of %select{|element of }4argument}1,2%3
